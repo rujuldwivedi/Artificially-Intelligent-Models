@@ -34,7 +34,7 @@ To run the models in this repository, ensure you have:
 
 1. Clone the repository:
 
-   `git clone https://github.com/rujuldwivedi/Artificially-Intelligent-Models.git`
+   `git clone https://github.com/rujuldwivedi/Artificially-Intelligent-Models.git`  
    `cd artificially-intelligent-models/models`
 
 2. Install dependencies.
